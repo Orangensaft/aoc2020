@@ -1,4 +1,4 @@
-import day1, day2, day3, day4, day5, day6
+import day1, day2, day3, day4, day5, day6, day7
 
 if __name__ == '__main__':
     print(f"Day 1a: {day1.find_solution_a()}")
@@ -13,3 +13,5 @@ if __name__ == '__main__':
     print(f"Day 5b: {day5.find_solution_b()}")
     print(f"Day 6a: {day6.find_solution_a()}")
     print(f"Day 6b: {day6.find_solution_b()}")
+    print(f"Day 7a: {day7.find_solution_a()}")
+    print(f"Day 7b: {day7.find_solution_b()}")
